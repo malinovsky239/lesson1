@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">lesson1</string>
+    <string name="app_name">Business card</string>
+    <string name="name">Malinovsky Ilya</string>
+    <string name="imageURL">http://s15.postimg.org/cyxpkpgd7/photo.jpg</string>
 </resources>
